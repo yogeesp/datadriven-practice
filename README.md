@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Last Migration Record](./practice/sql/last-migration-record) | SQL | Easy | 2026-08-29 |
 | [The Weight of Between](./practice/sql/the-weight-of-between) | SQL | Easy | 2026-08-29 |
 | [Nth Highest Salary Per Department](./practice/sql/nth-highest-salary-per-department) | SQL | Medium | 2026-08-29 |
 | [Low Uptime Services](./practice/sql/low-uptime-services) | SQL | Easy | 2026-08-29 |
