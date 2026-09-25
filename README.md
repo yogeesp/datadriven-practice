@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Loudest Failures](./practice/sql/the-loudest-failures) | SQL | Medium | 2026-09-15 |
 | [Top-Heavy](./practice/python/top-heavy) | Python | Medium | 2026-09-14 |
 | [Big Spenders](./practice/sql/big-spenders) | SQL | Easy | 2026-09-14 |
 | [The Dormant Accounts](./practice/sql/the-dormant-accounts) | SQL | Easy | 2026-09-13 |
