@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Heaviest Hitters](./practice/sql/the-heaviest-hitters) | SQL | Easy | 2026-08-25 |
 | [The Weight of a Verdict](./practice/sql/the-weight-of-a-verdict) | SQL | Easy | 2026-08-25 |
 | [Where the Fleet Lives](./practice/sql/where-the-fleet-lives) | SQL | Medium | 2026-08-25 |
 | [Suspected Bot Sessions](./practice/sql/suspected-bot-sessions) | SQL | Easy | 2026-08-25 |
