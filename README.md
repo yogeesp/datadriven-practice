@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Low Throughput Pipelines](./practice/sql/low-throughput-pipelines) | SQL | Easy | 2026-09-25 |
 | [The Tiebreaker](./practice/sql/the-tiebreaker) | SQL | Easy | 2026-09-25 |
 | [Ghosts in the Scheduler](./practice/sql/ghosts-in-the-scheduler) | SQL | Easy | 2026-09-25 |
 | [The Vital Signs](./practice/sql/the-vital-signs) | SQL | Easy | 2026-09-25 |
