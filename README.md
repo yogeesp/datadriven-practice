@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Echo Chamber](./practice/sql/echo-chamber) | SQL | Medium | 2026-08-08 |
 | [User Session Roster](./practice/sql/user-session-roster) | SQL | Easy | 2026-07-24 |
 | [Present and Accounted For](./practice/sql/present-and-accounted-for) | SQL | Easy | 2026-07-24 |
 | [The Opening Run](./practice/sql/the-opening-run) | SQL | Easy | 2026-07-24 |
