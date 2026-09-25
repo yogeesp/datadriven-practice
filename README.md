@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Top Performing Models](./practice/sql/top-performing-models) | SQL | Easy | 2026-08-26 |
 | [Platform Team Feature Flags](./practice/sql/platform-team-feature-flags) | SQL | Easy | 2026-08-26 |
 | [Long Messages](./practice/sql/long-messages) | SQL | Medium | 2026-08-26 |
 | [Cheapest Cost Per Region](./practice/sql/cheapest-cost-per-region) | SQL | Easy | 2026-08-26 |
