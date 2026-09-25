@@ -2,6 +2,7 @@
 
 Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here as it is scored. Each folder holds the code exactly as submitted and the report it earned.
 
+The time taken may include the time the tab for a problem was in the background.
 <!-- datadriven:index:start -->
 
 ## Practice
