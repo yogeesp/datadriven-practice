@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Two Names on the Ledger](./practice/sql/two-names-on-the-ledger) | SQL | Easy | 2026-08-30 |
 | [Deploy Cadence](./practice/sql/deploy-cadence) | SQL | Easy | 2026-08-30 |
 | [Sort Descending](./practice/python/sort-descending) | Python | Easy | 2026-08-29 |
 | [Total Cost by Category](./practice/sql/total-cost-by-category) | SQL | Easy | 2026-08-29 |
