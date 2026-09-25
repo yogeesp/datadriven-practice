@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Apprentices Still in the Forge](./practice/sql/the-apprentices-still-in-the-forge) | SQL | Easy | 2026-09-11 |
 | [Low Severity DQ Checks](./practice/sql/low-severity-dq-checks) | SQL | Easy | 2026-09-11 |
 | [Actually Available](./practice/sql/actually-available) | SQL | Easy | 2026-09-11 |
 | [Behavioral Range](./practice/sql/behavioral-range) | SQL | Easy | 2026-09-11 |
