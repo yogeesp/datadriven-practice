@@ -9,6 +9,7 @@ The time taken may include the time the tab for a problem was in the background.
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Everybody Wants a Bigger Screen](./practice/sql/everybody-wants-a-bigger-screen) | SQL | Easy | 2026-09-25 |
 | [Second Purchase](./practice/sql/second-purchase) | SQL | Hard | 2026-09-25 |
 | [Shipped to Prod](./practice/sql/shipped-to-prod) | SQL | Easy | 2026-09-23 |
 | [Regional Footprint](./practice/sql/regional-footprint) | SQL | Easy | 2026-09-23 |
