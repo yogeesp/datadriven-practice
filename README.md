@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Turned Away](./practice/sql/turned-away) | SQL | Medium | 2026-04-22 |
 | [Clean Cache CDN Edges](./practice/sql/clean-cache-cdn-edges) | SQL | Easy | 2026-04-22 |
 | [Sanitize Field](./practice/python/sanitize-field) | Python | Easy | 2026-04-21 |
 | [Even Filter](./practice/python/even-filter) | Python | Easy | 2026-04-21 |
