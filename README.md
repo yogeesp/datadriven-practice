@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Engagement Gap](./practice/sql/the-engagement-gap) | SQL | Medium | 2026-08-25 |
 | [Keyword-Based User Search](./practice/sql/keyword-based-user-search) | SQL | Medium | 2026-08-24 |
 | [Normalization Tradeoffs in Practice](./practice/sql/normalization-tradeoffs-in-practice) | SQL | Hard | 2026-08-23 |
 | [Where You Stand](./practice/sql/where-you-stand) | SQL | Easy | 2026-08-23 |
