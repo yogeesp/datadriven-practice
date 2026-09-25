@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Legacy Hunt](./practice/sql/the-legacy-hunt) | SQL | Easy | 2026-09-11 |
 | [Full Funnel](./practice/sql/full-funnel) | SQL | Hard | 2026-09-11 |
 | [Distinct Product Categories](./practice/sql/distinct-product-categories) | SQL | Easy | 2026-09-11 |
 | [Total Hours Between Consecutive Events](./practice/sql/total-hours-between-consecutive-events) | SQL | Hard | 2026-09-11 |
