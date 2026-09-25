@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Tally Counter](./practice/python/the-tally-counter) | Python | Easy | 2026-05-22 |
 | [Diverse Shoppers](./practice/sql/diverse-shoppers) | SQL | Medium | 2026-05-22 |
 | [After the Handshake](./practice/sql/after-the-handshake) | SQL | Medium | 2026-05-21 |
 | [User Roster](./practice/sql/user-roster) | SQL | Easy | 2026-05-21 |
