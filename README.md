@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Where the Money Sits](./practice/sql/where-the-money-sits) | SQL | Medium | 2026-08-22 |
 | [Content Types by Creator](./practice/sql/content-types-by-creator) | SQL | Easy | 2026-08-22 |
 | [Service Roll Call](./practice/sql/service-roll-call) | SQL | Easy | 2026-08-22 |
 | [Pipeline Run History](./practice/sql/pipeline-run-history) | SQL | Easy | 2026-08-22 |
