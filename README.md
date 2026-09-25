@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Service Alert Frequency](./practice/sql/service-alert-frequency) | SQL | Easy | 2026-09-06 |
 | [Most Recent Token Usage](./practice/sql/most-recent-token-usage) | SQL | Easy | 2026-09-06 |
 | [The Odd Digits](./practice/python/the-odd-digits) | Python | Easy | 2026-09-06 |
 | [Kings for a Day](./practice/sql/kings-for-a-day) | SQL | Medium | 2026-09-05 |
