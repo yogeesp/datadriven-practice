@@ -2,13 +2,13 @@
 
 Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here as it is scored. Each folder holds the code exactly as submitted and the report it earned.
 
-The time taken may include the time the tab for a problem was in the background.
 <!-- datadriven:index:start -->
 
 ## Practice
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Price Check](./practice/sql/price-check) | SQL | Easy | 2026-09-25 |
 | [Everybody Wants a Bigger Screen](./practice/sql/everybody-wants-a-bigger-screen) | SQL | Easy | 2026-09-25 |
 | [Second Purchase](./practice/sql/second-purchase) | SQL | Hard | 2026-09-25 |
 | [Shipped to Prod](./practice/sql/shipped-to-prod) | SQL | Easy | 2026-09-23 |
