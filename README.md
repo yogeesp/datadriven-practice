@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Search Endpoint Status Distribution](./practice/sql/search-endpoint-status-distribution) | SQL | Easy | 2026-09-25 |
 | [The Far Ends](./practice/sql/the-far-ends) | SQL | Easy | 2026-09-25 |
 | [All Infra Regions](./practice/sql/all-infra-regions) | SQL | Easy | 2026-09-25 |
 | [Low Throughput Pipelines](./practice/sql/low-throughput-pipelines) | SQL | Easy | 2026-09-25 |
