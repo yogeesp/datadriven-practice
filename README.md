@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Total Engineering Cost Allocation](./practice/sql/total-engineering-cost-allocation) | SQL | Easy | 2026-08-26 |
 | [Lowest Average Price Category](./practice/sql/lowest-average-price-category) | SQL | Easy | 2026-08-26 |
 | [Build Success vs Failure by Repo](./practice/sql/build-success-vs-failure-by-repo) | SQL | Medium | 2026-08-26 |
 | [Content Type Distribution](./practice/sql/content-type-distribution) | SQL | Easy | 2026-08-26 |
