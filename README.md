@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Device Mix](./practice/sql/device-mix) | SQL | Easy | 2026-09-11 |
 | [Clean Averages](./practice/sql/clean-averages) | SQL | Easy | 2026-09-11 |
 | [The Legacy Hunt](./practice/sql/the-legacy-hunt) | SQL | Easy | 2026-09-11 |
 | [Full Funnel](./practice/sql/full-funnel) | SQL | Hard | 2026-09-11 |
