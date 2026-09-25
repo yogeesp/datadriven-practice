@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Alert Severity](./practice/sql/alert-severity) | SQL | Hard | 2026-09-12 |
 | [User Age Ranking](./practice/sql/user-age-ranking) | SQL | Easy | 2026-09-12 |
 | [Average Session Duration by Device](./practice/sql/average-session-duration-by-device) | SQL | Easy | 2026-09-12 |
 | [Transaction Overview](./practice/sql/transaction-overview) | SQL | Easy | 2026-09-11 |
