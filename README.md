@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Loudest Signals](./practice/sql/the-loudest-signals) | SQL | Easy | 2026-09-21 |
 | [Second Highest Value](./practice/sql/second-highest-value) | SQL | Easy | 2026-09-21 |
 | [The Merge](./practice/python/the-merge) | Python | Easy | 2026-09-20 |
 | [Poles Apart](./practice/sql/poles-apart) | SQL | Medium | 2026-09-20 |
