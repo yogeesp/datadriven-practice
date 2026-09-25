@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Last Five Batch Jobs](./practice/sql/last-five-batch-jobs) | SQL | Easy | 2026-08-30 |
 | [Trim Search Terms Left](./practice/sql/trim-search-terms-left) | SQL | Easy | 2026-08-30 |
 | [CDN-Related DNS Lookups](./practice/sql/cdn-related-dns-lookups) | SQL | Easy | 2026-08-30 |
 | [Even-ID June Signups](./practice/sql/even-id-june-signups) | SQL | Easy | 2026-08-30 |
