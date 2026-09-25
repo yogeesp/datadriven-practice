@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Suspected Bot Sessions](./practice/sql/suspected-bot-sessions) | SQL | Easy | 2026-08-25 |
 | [Mobile Event Counts](./practice/sql/mobile-event-counts) | SQL | Easy | 2026-08-25 |
 | [Ghost Products](./practice/sql/ghost-products) | SQL | Medium | 2026-08-25 |
 | [The Repeat Offenders](./practice/python/the-repeat-offenders) | Python | Easy | 2026-08-25 |
