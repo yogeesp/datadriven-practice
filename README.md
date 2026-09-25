@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Longest Deploy With Full Identifier](./practice/sql/longest-deploy-with-full-identifier) | SQL | Easy | 2026-08-08 |
 | [Echo Chamber](./practice/sql/echo-chamber) | SQL | Medium | 2026-08-08 |
 | [User Session Roster](./practice/sql/user-session-roster) | SQL | Easy | 2026-07-24 |
 | [Present and Accounted For](./practice/sql/present-and-accounted-for) | SQL | Easy | 2026-07-24 |
