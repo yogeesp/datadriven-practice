@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Spending by Account Status](./practice/sql/spending-by-account-status) | SQL | Medium | 2026-08-30 |
 | [Double Take](./practice/sql/double-take) | SQL | Medium | 2026-08-30 |
 | [Trim Endpoints Right](./practice/sql/trim-endpoints-right) | SQL | Easy | 2026-08-30 |
 | [Last Seen](./practice/sql/last-seen) | SQL | Easy | 2026-08-30 |
