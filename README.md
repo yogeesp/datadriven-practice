@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Low Severity DQ Checks](./practice/sql/low-severity-dq-checks) | SQL | Easy | 2026-09-11 |
 | [Actually Available](./practice/sql/actually-available) | SQL | Easy | 2026-09-11 |
 | [Behavioral Range](./practice/sql/behavioral-range) | SQL | Easy | 2026-09-11 |
 | [Device Mix](./practice/sql/device-mix) | SQL | Easy | 2026-09-11 |
