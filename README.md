@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [What Set It Off](./practice/sql/what-set-it-off) | SQL | Easy | 2026-08-12 |
 | [Endless Scroll](./practice/sql/endless-scroll) | SQL | Medium | 2026-08-12 |
 | [Average Latency by Status](./practice/sql/average-latency-by-status) | SQL | Easy | 2026-08-12 |
 | [Top Regions by Critical Alerts](./practice/sql/top-regions-by-critical-alerts) | SQL | Medium | 2026-08-11 |
