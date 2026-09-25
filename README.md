@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Repeat Buyers Across Halves](./practice/sql/repeat-buyers-across-halves) | SQL | Medium | 2026-09-08 |
 | [Engagement by Content Type](./practice/sql/engagement-by-content-type) | SQL | Medium | 2026-09-08 |
 | [The Long Climb](./practice/sql/the-long-climb) | SQL | Medium | 2026-09-07 |
 | [Service Alert Frequency](./practice/sql/service-alert-frequency) | SQL | Easy | 2026-09-06 |
