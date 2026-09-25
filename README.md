@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Dormant Accounts](./practice/sql/the-dormant-accounts) | SQL | Easy | 2026-09-13 |
 | [Events by Month Across Years](./practice/sql/events-by-month-across-years) | SQL | Easy | 2026-09-12 |
 | [Metric Trend by Department](./practice/sql/metric-trend-by-department) | SQL | Easy | 2026-09-12 |
 | [Against the Clock](./practice/sql/against-the-clock) | SQL | Easy | 2026-09-12 |
