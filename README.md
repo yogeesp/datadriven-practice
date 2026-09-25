@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [On Their Way Out](./practice/sql/on-their-way-out) | SQL | Easy | 2026-08-23 |
 | [The Engagement Curve](./practice/sql/the-engagement-curve) | SQL | Medium | 2026-08-23 |
 | [Top 10 Model Accuracies](./practice/sql/top-10-model-accuracies) | SQL | Easy | 2026-08-22 |
 | [Where the Money Sits](./practice/sql/where-the-money-sits) | SQL | Medium | 2026-08-22 |
