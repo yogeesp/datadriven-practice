@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Unique Stream Topics](./practice/sql/unique-stream-topics) | SQL | Easy | 2026-09-21 |
 | [Unique Searchers](./practice/sql/unique-searchers) | SQL | Easy | 2026-09-21 |
 | [Recurring Error Types](./practice/sql/recurring-error-types) | SQL | Easy | 2026-09-21 |
 | [The Loudest Signals](./practice/sql/the-loudest-signals) | SQL | Easy | 2026-09-21 |
