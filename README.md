@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [10 Lowest Uptime Services](./practice/sql/10-lowest-uptime-services) | SQL | Medium | 2026-05-19 |
 | [Bronze Medal](./practice/sql/bronze-medal) | SQL | Easy | 2026-05-19 |
 | [Silent Users](./practice/sql/silent-users) | SQL | Medium | 2026-05-18 |
 | [New User Purchases](./practice/sql/new-user-purchases) | SQL | Medium | 2026-05-17 |
