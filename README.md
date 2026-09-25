@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Memory-Heavy Pods](./practice/sql/memory-heavy-pods) | SQL | Easy | 2026-08-26 |
 | [Search Terms Starting With G](./practice/sql/search-terms-starting-with-g) | SQL | Easy | 2026-08-26 |
 | [Health Checks per Service](./practice/sql/health-checks-per-service) | SQL | Easy | 2026-08-26 |
 | [Total Engineering Cost Allocation](./practice/sql/total-engineering-cost-allocation) | SQL | Easy | 2026-08-26 |
