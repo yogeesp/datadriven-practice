@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Shipped to Prod](./practice/sql/shipped-to-prod) | SQL | Easy | 2026-09-23 |
 | [Regional Footprint](./practice/sql/regional-footprint) | SQL | Easy | 2026-09-23 |
 | [The Missing Number](./practice/python/the-missing-number) | Python | Easy | 2026-09-23 |
 | [Loyalty's Double Tap](./practice/sql/loyalty-s-double-tap) | SQL | Medium | 2026-09-23 |
