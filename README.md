@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [CDN-Related DNS Lookups](./practice/sql/cdn-related-dns-lookups) | SQL | Easy | 2026-08-30 |
 | [Even-ID June Signups](./practice/sql/even-id-june-signups) | SQL | Easy | 2026-08-30 |
 | [First Migration Record](./practice/sql/first-migration-record) | SQL | Easy | 2026-08-30 |
 | [The Compliance Order](./practice/sql/the-compliance-order) | SQL | Easy | 2026-08-30 |
