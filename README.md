@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Compliance Order](./practice/sql/the-compliance-order) | SQL | Easy | 2026-08-30 |
 | [Top Metric Values](./practice/sql/top-metric-values) | SQL | Easy | 2026-08-30 |
 | [Deep Pockets](./practice/sql/deep-pockets) | SQL | Medium | 2026-08-30 |
 | [Two Names on the Ledger](./practice/sql/two-names-on-the-ledger) | SQL | Easy | 2026-08-30 |
