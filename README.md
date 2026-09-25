@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Double Take](./practice/sql/double-take) | SQL | Medium | 2026-08-30 |
 | [Trim Endpoints Right](./practice/sql/trim-endpoints-right) | SQL | Easy | 2026-08-30 |
 | [Last Seen](./practice/sql/last-seen) | SQL | Easy | 2026-08-30 |
 | [Last Five Batch Jobs](./practice/sql/last-five-batch-jobs) | SQL | Easy | 2026-08-30 |
