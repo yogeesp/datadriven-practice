@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Rollback Roulette](./practice/sql/rollback-roulette) | SQL | Easy | 2026-09-25 |
 | [Sessions Per Device Type](./practice/sql/sessions-per-device-type) | SQL | Easy | 2026-09-25 |
 | [The Roster](./practice/sql/the-roster) | SQL | Easy | 2026-09-25 |
 | [Price Check](./practice/sql/price-check) | SQL | Easy | 2026-09-25 |
