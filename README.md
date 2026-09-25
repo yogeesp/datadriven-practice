@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [After the Handshake](./practice/sql/after-the-handshake) | SQL | Medium | 2026-05-21 |
 | [User Roster](./practice/sql/user-roster) | SQL | Easy | 2026-05-21 |
 | [Average Watch Time by Format](./practice/sql/average-watch-time-by-format) | SQL | Medium | 2026-05-21 |
 | [The Budget Line](./practice/sql/the-budget-line) | SQL | Easy | 2026-05-20 |
