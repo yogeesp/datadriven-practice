@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Double Vision](./practice/sql/double-vision) | SQL | Easy | 2026-04-21 |
 | [Members Only](./practice/python/members-only) | Python | Easy | 2026-04-21 |
 | [Active API Tokens](./practice/sql/active-api-tokens) | SQL | Easy | 2026-04-20 |
 
