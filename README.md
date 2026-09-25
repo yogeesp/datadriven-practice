@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Behavioral Range](./practice/sql/behavioral-range) | SQL | Easy | 2026-09-11 |
 | [Device Mix](./practice/sql/device-mix) | SQL | Easy | 2026-09-11 |
 | [Clean Averages](./practice/sql/clean-averages) | SQL | Easy | 2026-09-11 |
 | [The Legacy Hunt](./practice/sql/the-legacy-hunt) | SQL | Easy | 2026-09-11 |
