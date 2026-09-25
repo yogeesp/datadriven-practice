@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Session Overview](./practice/sql/session-overview) | SQL | Medium | 2026-05-12 |
 | [Transform Column](./practice/python/transform-column) | Python | Easy | 2026-05-10 |
 | [Above Average Interactions](./practice/sql/above-average-interactions) | SQL | Easy | 2026-04-29 |
 | [Where the Money Burns](./practice/sql/where-the-money-burns) | SQL | Medium | 2026-04-29 |
