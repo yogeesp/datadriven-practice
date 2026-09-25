@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [CDN Image Request Paths](./practice/sql/cdn-image-request-paths) | SQL | Easy | 2026-04-28 |
 | [Unused Read Tokens](./practice/sql/unused-read-tokens) | SQL | Easy | 2026-04-28 |
 | [US-East KV Store Entries](./practice/sql/us-east-kv-store-entries) | SQL | Easy | 2026-04-28 |
 | [Active Campaigns](./practice/sql/active-campaigns) | SQL | Easy | 2026-04-22 |
