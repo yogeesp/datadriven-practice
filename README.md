@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [One Year to the Next](./practice/sql/one-year-to-the-next) | SQL | Hard | 2026-05-19 |
 | [Ad Clickers](./practice/sql/ad-clickers) | SQL | Easy | 2026-05-19 |
 | [10 Lowest Uptime Services](./practice/sql/10-lowest-uptime-services) | SQL | Medium | 2026-05-19 |
 | [Bronze Medal](./practice/sql/bronze-medal) | SQL | Easy | 2026-05-19 |
