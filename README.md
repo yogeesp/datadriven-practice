@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Transaction Source Features](./practice/sql/transaction-source-features) | SQL | Easy | 2026-08-29 |
 | [High-Output Creators](./practice/sql/high-output-creators) | SQL | Easy | 2026-08-29 |
 | [Whale Watch](./practice/sql/whale-watch) | SQL | Easy | 2026-08-29 |
 | [Status Report](./practice/sql/status-report) | SQL | Easy | 2026-08-29 |
