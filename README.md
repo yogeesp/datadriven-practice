@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Long Climb](./practice/sql/the-long-climb) | SQL | Medium | 2026-09-07 |
 | [Service Alert Frequency](./practice/sql/service-alert-frequency) | SQL | Easy | 2026-09-06 |
 | [Most Recent Token Usage](./practice/sql/most-recent-token-usage) | SQL | Easy | 2026-09-06 |
 | [The Odd Digits](./practice/python/the-odd-digits) | Python | Easy | 2026-09-06 |
