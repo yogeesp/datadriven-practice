@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [High-Traffic Endpoints in February](./practice/sql/high-traffic-endpoints-in-february) | SQL | Easy | 2026-08-17 |
 | [The Minutes Tracker](./practice/python/the-minutes-tracker) | Python | Easy | 2026-08-16 |
 | [First Impressions](./practice/sql/first-impressions) | SQL | Easy | 2026-08-15 |
 | [Schema Checker](./practice/python/schema-checker) | Python | Easy | 2026-08-15 |
