@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Publishing Audit](./practice/sql/the-publishing-audit) | SQL | Easy | 2026-08-22 |
 | [The Overwritten Hour](./practice/python/the-overwritten-hour) | Python | Medium | 2026-08-20 |
 | [The Ones That Come Back](./practice/python/the-ones-that-come-back) | Python | Easy | 2026-08-19 |
 | [High Water Mark](./practice/python/high-water-mark) | Python | Easy | 2026-08-18 |
