@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Total Hours Between Consecutive Events](./practice/sql/total-hours-between-consecutive-events) | SQL | Hard | 2026-09-11 |
 | [Splitting the Load](./practice/sql/splitting-the-load) | SQL | Medium | 2026-09-11 |
 | [Session Logins Dec 13 to 19](./practice/sql/session-logins-dec-13-to-19) | SQL | Easy | 2026-09-10 |
 | [Repeat Buyers Across Halves](./practice/sql/repeat-buyers-across-halves) | SQL | Medium | 2026-09-08 |
