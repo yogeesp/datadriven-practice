@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Category Sales Summary](./practice/sql/category-sales-summary) | SQL | Easy | 2026-04-21 |
 | [Where Quality Breaks](./practice/sql/where-quality-breaks) | SQL | Easy | 2026-04-21 |
 | [Double Vision](./practice/sql/double-vision) | SQL | Easy | 2026-04-21 |
 | [Members Only](./practice/python/members-only) | Python | Easy | 2026-04-21 |
