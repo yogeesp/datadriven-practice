@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Ghosts in the Scheduler](./practice/sql/ghosts-in-the-scheduler) | SQL | Easy | 2026-09-25 |
 | [The Vital Signs](./practice/sql/the-vital-signs) | SQL | Easy | 2026-09-25 |
 | [Top Device by Sessions](./practice/sql/top-device-by-sessions) | SQL | Easy | 2026-09-25 |
 | [Rollback Roulette](./practice/sql/rollback-roulette) | SQL | Easy | 2026-09-25 |
