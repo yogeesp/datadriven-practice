@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Both Ways](./practice/sql/both-ways) | SQL | Hard | 2026-09-19 |
 | [The Loudest Neighbor](./practice/sql/the-loudest-neighbor) | SQL | Hard | 2026-09-18 |
 | [Parallel Traces](./practice/sql/parallel-traces) | SQL | Medium | 2026-09-16 |
 | [The Loudest Failures](./practice/sql/the-loudest-failures) | SQL | Medium | 2026-09-15 |
