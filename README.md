@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Ones That Come Back](./practice/python/the-ones-that-come-back) | Python | Easy | 2026-08-19 |
 | [High Water Mark](./practice/python/high-water-mark) | Python | Easy | 2026-08-18 |
 | [Price Rank](./practice/sql/price-rank) | SQL | Medium | 2026-08-18 |
 | [High-Traffic Endpoints in February](./practice/sql/high-traffic-endpoints-in-february) | SQL | Easy | 2026-08-17 |
