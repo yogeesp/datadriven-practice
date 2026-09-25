@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Silent Users](./practice/sql/silent-users) | SQL | Medium | 2026-05-18 |
 | [New User Purchases](./practice/sql/new-user-purchases) | SQL | Medium | 2026-05-17 |
 | [Rating Tiers](./practice/sql/rating-tiers) | SQL | Medium | 2026-05-15 |
 | [Value Count](./practice/python/value-count) | Python | Easy | 2026-05-14 |
