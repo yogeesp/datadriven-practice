@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Session Logins Dec 13 to 19](./practice/sql/session-logins-dec-13-to-19) | SQL | Easy | 2026-09-10 |
 | [Repeat Buyers Across Halves](./practice/sql/repeat-buyers-across-halves) | SQL | Medium | 2026-09-08 |
 | [Engagement by Content Type](./practice/sql/engagement-by-content-type) | SQL | Medium | 2026-09-08 |
 | [The Long Climb](./practice/sql/the-long-climb) | SQL | Medium | 2026-09-07 |
