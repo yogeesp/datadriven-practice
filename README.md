@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Service Roll Call](./practice/sql/service-roll-call) | SQL | Easy | 2026-08-22 |
 | [Pipeline Run History](./practice/sql/pipeline-run-history) | SQL | Easy | 2026-08-22 |
 | [The Roads In](./practice/sql/the-roads-in) | SQL | Easy | 2026-08-22 |
 | [The Publishing Audit](./practice/sql/the-publishing-audit) | SQL | Easy | 2026-08-22 |
