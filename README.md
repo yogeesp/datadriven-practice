@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Top Metric Values](./practice/sql/top-metric-values) | SQL | Easy | 2026-08-30 |
 | [Deep Pockets](./practice/sql/deep-pockets) | SQL | Medium | 2026-08-30 |
 | [Two Names on the Ledger](./practice/sql/two-names-on-the-ledger) | SQL | Easy | 2026-08-30 |
 | [Deploy Cadence](./practice/sql/deploy-cadence) | SQL | Easy | 2026-08-30 |
