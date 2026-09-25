@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Most Recent Token Usage](./practice/sql/most-recent-token-usage) | SQL | Easy | 2026-09-06 |
 | [The Odd Digits](./practice/python/the-odd-digits) | Python | Easy | 2026-09-06 |
 | [Kings for a Day](./practice/sql/kings-for-a-day) | SQL | Medium | 2026-09-05 |
 | [The Weight of Words](./practice/sql/the-weight-of-words) | SQL | Easy | 2026-09-04 |
