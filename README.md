@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Return on Patience](./practice/sql/return-on-patience) | SQL | Medium | 2026-08-11 |
 | [High Water](./practice/python/high-water) | Python | Easy | 2026-08-11 |
 | [Infant Mortality](./practice/sql/infant-mortality) | SQL | Hard | 2026-08-10 |
 | [The Undone](./practice/sql/the-undone) | SQL | Hard | 2026-08-10 |
