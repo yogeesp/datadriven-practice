@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Opening Run](./practice/sql/the-opening-run) | SQL | Easy | 2026-07-24 |
 | [The Token Census](./practice/sql/the-token-census) | SQL | Easy | 2026-07-24 |
 | [Weekend Warriors](./practice/sql/weekend-warriors) | SQL | Easy | 2026-07-23 |
 | [Char Profile](./practice/python/char-profile) | Python | Medium | 2026-07-21 |
