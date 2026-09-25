@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Metric Trend by Department](./practice/sql/metric-trend-by-department) | SQL | Easy | 2026-09-12 |
 | [Against the Clock](./practice/sql/against-the-clock) | SQL | Easy | 2026-09-12 |
 | [Who We Reached](./practice/sql/who-we-reached) | SQL | Easy | 2026-09-12 |
 | [Above Average](./practice/sql/above-average) | SQL | Easy | 2026-09-12 |
