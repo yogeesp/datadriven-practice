@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Schema Checker](./practice/python/schema-checker) | Python | Easy | 2026-08-15 |
 | [The Running Total](./practice/python/the-running-total) | Python | Easy | 2026-08-15 |
 | [Where We Left Off](./practice/sql/where-we-left-off) | SQL | Medium | 2026-08-15 |
 | [The Crown Jewels](./practice/sql/the-crown-jewels) | SQL | Easy | 2026-08-14 |
