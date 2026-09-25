@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Three Lowest Distinct Cloud Cost Amounts](./practice/sql/three-lowest-distinct-cloud-cost-amounts) | SQL | Easy | 2026-08-29 |
 | [Busy Authors](./practice/sql/busy-authors) | SQL | Medium | 2026-08-29 |
 | [Total User Spend](./practice/sql/total-user-spend) | SQL | Easy | 2026-08-29 |
 | [Ebb and Flow](./practice/sql/ebb-and-flow) | SQL | Hard | 2026-08-29 |
