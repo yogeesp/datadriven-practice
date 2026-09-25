@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Average Compensation by Department and Status](./practice/sql/average-compensation-by-department-and-status) | SQL | Medium | 2026-04-22 |
 | [Average API Latency by Year](./practice/sql/average-api-latency-by-year) | SQL | Medium | 2026-04-22 |
 | [Active Token Owners in 2026](./practice/sql/active-token-owners-in-year) | SQL | Easy | 2026-04-22 |
 | [Turned Away](./practice/sql/turned-away) | SQL | Medium | 2026-04-22 |
