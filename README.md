@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Repeat Offenders](./practice/python/the-repeat-offenders) | Python | Easy | 2026-08-25 |
 | [Where the Lines Break](./practice/python/where-the-lines-break) | Python | Easy | 2026-08-25 |
 | [The Engagement Gap](./practice/sql/the-engagement-gap) | SQL | Medium | 2026-08-25 |
 | [Keyword-Based User Search](./practice/sql/keyword-based-user-search) | SQL | Medium | 2026-08-24 |
