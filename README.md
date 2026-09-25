@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Roster](./practice/sql/the-roster) | SQL | Easy | 2026-09-25 |
 | [Price Check](./practice/sql/price-check) | SQL | Easy | 2026-09-25 |
 | [Everybody Wants a Bigger Screen](./practice/sql/everybody-wants-a-bigger-screen) | SQL | Easy | 2026-09-25 |
 | [Second Purchase](./practice/sql/second-purchase) | SQL | Hard | 2026-09-25 |
