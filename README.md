@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Nth Highest Salary Per Department](./practice/sql/nth-highest-salary-per-department) | SQL | Medium | 2026-08-29 |
 | [Low Uptime Services](./practice/sql/low-uptime-services) | SQL | Easy | 2026-08-29 |
 | [Prime Real Estate](./practice/sql/prime-real-estate) | SQL | Easy | 2026-08-29 |
 | [High-Spend 2025 Campaigns](./practice/sql/high-spend-year-1-campaigns) | SQL | Easy | 2026-08-29 |
