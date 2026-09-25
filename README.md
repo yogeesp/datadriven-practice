@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Weekend Warriors](./practice/sql/weekend-warriors) | SQL | Easy | 2026-07-23 |
 | [Char Profile](./practice/python/char-profile) | Python | Medium | 2026-07-21 |
 | [First Among Equals](./practice/sql/first-among-equals) | SQL | Medium | 2026-06-01 |
 | [Platform Speed](./practice/sql/platform-speed) | SQL | Medium | 2026-05-26 |
