@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Long Run](./practice/python/the-long-run) | Python | Easy | 2026-08-31 |
 | [Where Users Linger](./practice/sql/where-users-linger) | SQL | Easy | 2026-08-31 |
 | [Spending by Account Status](./practice/sql/spending-by-account-status) | SQL | Medium | 2026-08-30 |
 | [Double Take](./practice/sql/double-take) | SQL | Medium | 2026-08-30 |
