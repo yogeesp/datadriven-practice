@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Whale Watch](./practice/sql/whale-watch) | SQL | Easy | 2026-08-29 |
 | [Status Report](./practice/sql/status-report) | SQL | Easy | 2026-08-29 |
 | [Top 100 Batch Jobs Total Output](./practice/sql/top-100-batch-jobs-total-output) | SQL | Easy | 2026-08-27 |
 | [Memory-Heavy Pods](./practice/sql/memory-heavy-pods) | SQL | Easy | 2026-08-26 |
