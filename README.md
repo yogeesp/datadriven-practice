@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Deep Dictionary](./practice/python/the-deep-dictionary) | Python | Easy | 2026-08-13 |
 | [Annual Cloud Spend Summary](./practice/sql/annual-cloud-spend-summary) | SQL | Easy | 2026-08-12 |
 | [Back Again](./practice/sql/back-again) | SQL | Medium | 2026-08-12 |
 | [What Set It Off](./practice/sql/what-set-it-off) | SQL | Easy | 2026-08-12 |
