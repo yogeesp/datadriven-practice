@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Top CPU Pods per Namespace](./practice/sql/top-cpu-pods-per-namespace) | SQL | Hard | 2026-09-03 |
 | [The Ones That Move](./practice/sql/the-ones-that-move) | SQL | Medium | 2026-09-02 |
 | [The Long Run](./practice/python/the-long-run) | Python | Easy | 2026-08-31 |
 | [Where Users Linger](./practice/sql/where-users-linger) | SQL | Easy | 2026-08-31 |
