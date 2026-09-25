@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Weight of Words](./practice/sql/the-weight-of-words) | SQL | Easy | 2026-09-04 |
 | [The Code Expander](./practice/python/the-code-expander) | Python | Easy | 2026-09-03 |
 | [The Top Reviewer](./practice/python/the-top-reviewer) | Python | Easy | 2026-09-03 |
 | [Top CPU Pods per Namespace](./practice/sql/top-cpu-pods-per-namespace) | SQL | Hard | 2026-09-03 |
