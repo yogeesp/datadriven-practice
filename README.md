@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Compute Nodes in Key Regions](./practice/sql/compute-nodes-in-key-regions) | SQL | Easy | 2026-09-26 |
 | [Mid-CPU Nodes](./practice/sql/mid-cpu-nodes) | SQL | Easy | 2026-09-26 |
 | [Deploy Count by Service](./practice/sql/deploy-count-by-service) | SQL | Easy | 2026-09-26 |
 | [The Elite](./practice/sql/the-elite) | SQL | Easy | 2026-09-26 |
