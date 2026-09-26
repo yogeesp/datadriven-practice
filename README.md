@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Node Summary Per Region](./practice/sql/node-summary-per-region) | SQL | Easy | 2026-09-26 |
 | [Error Severity Buckets](./practice/sql/error-severity-buckets) | SQL | Easy | 2026-09-26 |
 | [Alert Hotspots by Service and Severity](./practice/sql/alert-hotspots-by-service-and-severity) | SQL | Easy | 2026-09-26 |
 | [Average GPU Node CPU Usage](./practice/sql/average-gpu-node-cpu-usage) | SQL | Easy | 2026-09-26 |
