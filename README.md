@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Deploy Count by Service](./practice/sql/deploy-count-by-service) | SQL | Easy | 2026-09-26 |
 | [The Elite](./practice/sql/the-elite) | SQL | Easy | 2026-09-26 |
 | [The First Half](./practice/sql/the-first-half) | SQL | Easy | 2026-09-26 |
 | [Search Endpoint Status Distribution](./practice/sql/search-endpoint-status-distribution) | SQL | Easy | 2026-09-25 |
