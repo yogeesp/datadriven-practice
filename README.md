@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Average GPU Node CPU Usage](./practice/sql/average-gpu-node-cpu-usage) | SQL | Easy | 2026-09-26 |
 | [Average Node Utilization](./practice/sql/average-node-utilization) | SQL | Easy | 2026-09-26 |
 | [The Quiet Drain](./practice/sql/the-quiet-drain) | SQL | Easy | 2026-09-26 |
 | [Reviews Per Reviewer](./practice/sql/reviews-per-reviewer) | SQL | Easy | 2026-09-26 |
