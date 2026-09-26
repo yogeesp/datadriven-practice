@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Clicked Ad Impressions](./practice/sql/clicked-ad-impressions) | SQL | Easy | 2026-09-26 |
 | [High Price Products](./practice/sql/high-price-products) | SQL | Easy | 2026-09-26 |
 | [The Scorched Earth Reviews](./practice/sql/the-scorched-earth-reviews) | SQL | Easy | 2026-09-26 |
 | [Average Search Endpoint Latency](./practice/sql/average-search-endpoint-latency) | SQL | Easy | 2026-09-26 |
