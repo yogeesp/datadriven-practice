@@ -207,7 +207,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 | [CDN Image Request Paths](./practice/sql/cdn-image-request-paths) | SQL | Easy | 2026-04-28 |
 | [Unused Read Tokens](./practice/sql/unused-read-tokens) | SQL | Easy | 2026-04-28 |
 | [US-East KV Store Entries](./practice/sql/us-east-kv-store-entries) | SQL | Easy | 2026-04-28 |
-| [Active Campaigns](./practice/sql/active-campaigns) | SQL | Easy | 2026-04-22 |
+| [Active Campaigns](./practice/sql/active-campaigns) | SQL | Medium | 2026-04-22 |
 | [Average Compensation by Department and Status](./practice/sql/average-compensation-by-department-and-status) | SQL | Medium | 2026-04-22 |
 | [Average API Latency by Year](./practice/sql/average-api-latency-by-year) | SQL | Medium | 2026-04-22 |
 | [Active Token Owners in 2026](./practice/sql/active-token-owners-in-year) | SQL | Easy | 2026-04-22 |
