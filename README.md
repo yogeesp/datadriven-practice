@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Scorched Earth Reviews](./practice/sql/the-scorched-earth-reviews) | SQL | Easy | 2026-09-26 |
 | [Average Search Endpoint Latency](./practice/sql/average-search-endpoint-latency) | SQL | Easy | 2026-09-26 |
 | [Compute Nodes in Key Regions](./practice/sql/compute-nodes-in-key-regions) | SQL | Easy | 2026-09-26 |
 | [Mid-CPU Nodes](./practice/sql/mid-cpu-nodes) | SQL | Easy | 2026-09-26 |
