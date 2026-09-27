@@ -1,4 +1,3 @@
-select *
-from users
-where user_id%2 = 0
-and to_char(signup_date,'MM') = '06'
+df = users
+.filter(F.col('user_id')%2 == 0)
+.filter(date_format('signup_date','MM')== "06")
