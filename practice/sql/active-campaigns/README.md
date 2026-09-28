@@ -2,7 +2,7 @@
 
 *Which campaigns are earning their keep?*
 
-[SQL · Medium · on DataDriven](https://datadriven.io/problems/active_campaigns)
+[SQL · Easy · on DataDriven](https://datadriven.io/problems/active_campaigns)
 
 ## How it went
 
