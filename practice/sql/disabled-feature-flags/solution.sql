@@ -1,2 +1,2 @@
-select * from feat_flags
-where enabled = 0
+df = feat_flags
+    .filter(F.col('enabled') == 0)
