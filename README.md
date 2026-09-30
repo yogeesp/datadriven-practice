@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Cloud Cost Trend Analysis](./practice/sql/cloud-cost-trend-analysis) | SQL | Medium | 2026-09-30 |
 | [The Ones Who Finish](./practice/sql/the-ones-who-finish) | SQL | Medium | 2026-09-30 |
 | [Disabled Feature Flags](./practice/sql/disabled-feature-flags) | SQL | Easy | 2026-09-28 |
 | [Node Summary Per Region](./practice/sql/node-summary-per-region) | SQL | Easy | 2026-09-26 |
