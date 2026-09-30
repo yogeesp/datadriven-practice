@@ -112,7 +112,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 | [Deploy Cadence](./practice/sql/deploy-cadence) | SQL | Easy | 2026-08-30 |
 | [Sort Descending](./practice/python/sort-descending) | Python | Easy | 2026-08-29 |
 | [Total Cost by Category](./practice/sql/total-cost-by-category) | SQL | Easy | 2026-08-29 |
-| [Customer Full Name Concat](./practice/sql/customer-full-name-concat) | SQL | Easy | 2026-08-29 |
+| [Customer Full Name Concat](./practice/sql/customer-full-name-concat) | SQL | Medium | 2026-08-29 |
 | [Three Lowest Distinct Cloud Cost Amounts](./practice/sql/three-lowest-distinct-cloud-cost-amounts) | SQL | Easy | 2026-08-29 |
 | [Busy Authors](./practice/sql/busy-authors) | SQL | Medium | 2026-08-29 |
 | [Total User Spend](./practice/sql/total-user-spend) | SQL | Easy | 2026-08-29 |
