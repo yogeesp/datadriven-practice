@@ -2,7 +2,7 @@
 
 *First name, last name. Combine them.*
 
-[SQL · Medium · on DataDriven](https://datadriven.io/problems/customer_full_name_concat)
+[SQL · Easy · on DataDriven](https://datadriven.io/problems/customer_full_name_concat)
 
 ## How it went
 
