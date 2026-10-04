@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Ones Nobody Calls](./practice/sql/the-ones-nobody-calls) | SQL | Medium | 2026-10-04 |
 | [Non-Bot Acknowledged Alerts](./practice/sql/non-bot-acknowledged-alerts) | SQL | Easy | 2026-10-03 |
 | [Verify Commit ID Uniqueness](./practice/sql/verify-commit-id-uniqueness) | SQL | Easy | 2026-10-02 |
 | [Cloud Cost Trend Analysis](./practice/sql/cloud-cost-trend-analysis) | SQL | Medium | 2026-09-30 |
