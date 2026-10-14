@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [High Volume Batch Jobs](./practice/sql/high-volume-batch-jobs) | SQL | Easy | 2026-10-14 |
 | [Across the Aisles](./practice/sql/across-the-aisles) | SQL | Hard | 2026-10-14 |
 | [Read the Manual](./practice/sql/read-the-manual) | SQL | Easy | 2026-10-14 |
 | [Titles Ending With S](./practice/sql/titles-ending-with-s) | SQL | Easy | 2026-10-14 |
