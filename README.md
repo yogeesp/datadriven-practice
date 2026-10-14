@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Nobody Was Watching](./practice/sql/nobody-was-watching) | SQL | Easy | 2026-10-14 |
 | [Timeout Status Records](./practice/sql/timeout-status-records) | SQL | Easy | 2026-10-14 |
 | [High Volume Batch Jobs](./practice/sql/high-volume-batch-jobs) | SQL | Easy | 2026-10-14 |
 | [Across the Aisles](./practice/sql/across-the-aisles) | SQL | Hard | 2026-10-14 |
