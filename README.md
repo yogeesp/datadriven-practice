@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Spending Rhythm](./practice/sql/the-spending-rhythm) | SQL | Easy | 2026-10-14 |
 | [Transaction Timeline](./practice/sql/transaction-timeline) | SQL | Medium | 2026-10-14 |
 | [Service Scorecard](./practice/sql/service-scorecard) | SQL | Hard | 2026-10-14 |
 | [Auth Endpoint Callers](./practice/sql/auth-endpoint-callers) | SQL | Medium | 2026-10-14 |
