@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Read the Manual](./practice/sql/read-the-manual) | SQL | Easy | 2026-10-14 |
 | [Titles Ending With S](./practice/sql/titles-ending-with-s) | SQL | Easy | 2026-10-14 |
 | [The Standings](./practice/sql/the-standings) | SQL | Hard | 2026-10-14 |
 | [The Quiet Middle](./practice/sql/the-quiet-middle) | SQL | Easy | 2026-10-14 |
