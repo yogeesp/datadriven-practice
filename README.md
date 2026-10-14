@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Quiet Middle](./practice/sql/the-quiet-middle) | SQL | Easy | 2026-10-14 |
 | [Profitable Categories by Price](./practice/sql/profitable-categories-by-price) | SQL | Easy | 2026-10-13 |
 | [Auth Service Health Checks](./practice/sql/auth-service-health-checks) | SQL | Easy | 2026-10-13 |
 | [Low Latency API Calls](./practice/sql/low-latency-api-calls) | SQL | Easy | 2026-10-13 |
