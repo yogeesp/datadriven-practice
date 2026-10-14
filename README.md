@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Service Scorecard](./practice/sql/service-scorecard) | SQL | Hard | 2026-10-14 |
 | [Auth Endpoint Callers](./practice/sql/auth-endpoint-callers) | SQL | Medium | 2026-10-14 |
 | [Q2 Search Volume](./practice/sql/q2-search-volume) | SQL | Easy | 2026-10-14 |
 | [Nobody Was Watching](./practice/sql/nobody-was-watching) | SQL | Easy | 2026-10-14 |
