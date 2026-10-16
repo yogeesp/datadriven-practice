@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Three Peaks](./practice/sql/three-peaks) | SQL | Hard | 2026-10-16 |
 | [Active Users With April Transactions](./practice/sql/active-users-with-april-transactions) | SQL | Easy | 2026-10-14 |
 | [The Spending Rhythm](./practice/sql/the-spending-rhythm) | SQL | Easy | 2026-10-14 |
 | [Transaction Timeline](./practice/sql/transaction-timeline) | SQL | Medium | 2026-10-14 |
