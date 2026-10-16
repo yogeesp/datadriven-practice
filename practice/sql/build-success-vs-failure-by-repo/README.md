@@ -2,7 +2,7 @@
 
 *Green versus red, repo by repo.*
 
-[SQL · Easy · on DataDriven](https://datadriven.io/problems/build_success_vs_failure_by_repo)
+[SQL · Medium · on DataDriven](https://datadriven.io/problems/build_success_vs_failure_by_repo)
 
 ## How it went
 
