@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [The Warm Edges](./practice/sql/the-warm-edges) | SQL | Medium | 2026-10-17 |
 | [The Tail Trimmer](./practice/python/the-tail-trimmer) | Python | Easy | 2026-10-17 |
 | [The Above Average](./practice/sql/the-above-average) | SQL | Medium | 2026-10-16 |
 | [Three Peaks](./practice/sql/three-peaks) | SQL | Hard | 2026-10-16 |
