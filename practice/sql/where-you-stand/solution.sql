@@ -1,4 +1,4 @@
-select 
-svc_name,region,latency,
-round(avg(latency) over(partition by region),3) avg_region_latency
+select svc_name,region,latency,
+avg(latency) over (partition by region) avg_latency
 from svc_health
+order by region,svc_name,latency
