@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Top Percentile API Tokens](./practice/sql/top-percentile-api-tokens) | SQL | Hard | 2026-10-20 |
 | [Metric Range Per Group](./practice/sql/metric-range-per-group) | SQL | Easy | 2026-10-19 |
 | [The Last Checkout](./practice/sql/the-last-checkout) | SQL | Medium | 2026-10-19 |
 | [Latest Metric Values](./practice/sql/latest-metric-values) | SQL | Easy | 2026-10-19 |
