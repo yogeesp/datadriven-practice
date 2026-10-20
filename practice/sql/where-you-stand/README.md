@@ -2,7 +2,7 @@
 
 *Each service versus its region's average.*
 
-[SQL · Easy · on DataDriven](https://datadriven.io/problems/where_you_stand)
+[SQL · Medium · on DataDriven](https://datadriven.io/problems/where_you_stand)
 
 ## How it went
 
