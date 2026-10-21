@@ -2,7 +2,7 @@
 
 *They are still paying. They stopped showing up.*
 
-[SQL · Easy · on DataDriven](https://datadriven.io/problems/the_dormant_accounts)
+[SQL · Medium · on DataDriven](https://datadriven.io/problems/the_dormant_accounts)
 
 ## How it went
 
