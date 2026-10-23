@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Users With Purchase Events](./practice/sql/users-with-purchase-events) | SQL | Easy | 2026-10-23 |
 | [Deployment Duration by Status](./practice/sql/deployment-duration-by-status) | SQL | Easy | 2026-10-23 |
 | [Top Percentile API Tokens](./practice/sql/top-percentile-api-tokens) | SQL | Hard | 2026-10-20 |
 | [Metric Range Per Group](./practice/sql/metric-range-per-group) | SQL | Easy | 2026-10-19 |
