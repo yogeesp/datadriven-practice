@@ -44,6 +44,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 | [Verify Commit ID Uniqueness](./practice/sql/verify-commit-id-uniqueness) | SQL | Easy | 2026-10-02 |
 | [Cloud Cost Trend Analysis](./practice/sql/cloud-cost-trend-analysis) | SQL | Medium | 2026-09-30 |
 | [The Ones Who Finish](./practice/sql/the-ones-who-finish) | SQL | Medium | 2026-09-30 |
+| [Total Cost by Category](./practice/spark/total-cost-by-category) | Spark | Easy | 2026-09-29 |
 | [Disabled Feature Flags](./practice/spark/disabled-feature-flags) | Spark | Easy | 2026-09-28 |
 | [Disabled Feature Flags](./practice/sql/disabled-feature-flags) | SQL | Easy | 2026-09-28 |
 | [Even-ID June Signups](./practice/spark/even-id-june-signups) | Spark | Easy | 2026-09-27 |
