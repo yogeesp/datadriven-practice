@@ -50,7 +50,6 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 | [Disabled Feature Flags](./practice/sql/disabled-feature-flags) | SQL | Easy | 2026-09-28 |
 | [Even-ID June Signups](./practice/spark/even-id-june-signups) | Spark | Easy | 2026-09-27 |
 | [Node Summary Per Region](./practice/spark/node-summary-per-region) | Spark | Easy | 2026-09-26 |
-| [Node Summary Per Region](./practice/sql/node-summary-per-region) | SQL | Easy | 2026-09-26 |
 | [The Scorched Earth Reviews](./practice/spark/the-scorched-earth-reviews) | Spark | Easy | 2026-09-26 |
 | [Error Severity Buckets](./practice/sql/error-severity-buckets) | SQL | Easy | 2026-09-26 |
 | [Alert Hotspots by Service and Severity](./practice/sql/alert-hotspots-by-service-and-severity) | SQL | Easy | 2026-09-26 |
