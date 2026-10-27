@@ -1,3 +1,3 @@
-df = products
-.select('product_name','rating')
-.filter(col('rating') == 1)
+SELECT product_name, rating
+FROM products
+WHERE rating = 1;
