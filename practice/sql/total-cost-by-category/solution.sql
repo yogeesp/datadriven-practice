@@ -1,3 +1,5 @@
-df = cost_allocs
-    .groupBy('category')
-    .agg(F.sum('amount').alias('total_amount'))
+SELECT
+  category,
+  SUM(amount) AS total_amount
+FROM cost_allocs
+GROUP BY category
