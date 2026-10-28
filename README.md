@@ -178,7 +178,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 | [Content Type Distribution](./practice/sql/content-type-distribution) | SQL | Easy | 2026-08-26 |
 | [Top Performing Models](./practice/sql/top-performing-models) | SQL | Easy | 2026-08-26 |
 | [Platform Team Feature Flags](./practice/sql/platform-team-feature-flags) | SQL | Easy | 2026-08-26 |
-| [Long Messages](./practice/sql/long-messages) | SQL | Medium | 2026-08-26 |
+| [Long Messages](./practice/sql/long-messages) | SQL | Hard | 2026-08-26 |
 | [Cheapest Cost Per Region](./practice/sql/cheapest-cost-per-region) | SQL | Easy | 2026-08-26 |
 | [Engagement Gap](./practice/sql/engagement-gap) | SQL | Medium | 2026-08-26 |
 | [Views by Content Type](./practice/sql/views-by-content-type) | SQL | Medium | 2026-08-26 |
