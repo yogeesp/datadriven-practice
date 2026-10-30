@@ -2,7 +2,7 @@
 
 *Some commit messages tell a novel.*
 
-[SQL · Hard · on DataDriven](https://datadriven.io/problems/long_messages)
+[SQL · Medium · on DataDriven](https://datadriven.io/problems/long_messages)
 
 ## How it went
 
