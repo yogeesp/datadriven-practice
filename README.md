@@ -184,7 +184,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 | [Long Messages](./practice/sql/long-messages) | SQL | Medium | 2026-08-26 |
 | [Cheapest Cost Per Region](./practice/sql/cheapest-cost-per-region) | SQL | Easy | 2026-08-26 |
 | [Engagement Gap](./practice/sql/engagement-gap) | SQL | Medium | 2026-08-26 |
-| [Views by Content Type](./practice/sql/views-by-content-type) | SQL | Medium | 2026-08-26 |
+| [Views by Content Type](./practice/sql/views-by-content-type) | SQL | Easy | 2026-08-26 |
 | [Character Position in Endpoint](./practice/sql/character-position-in-endpoint) | SQL | Easy | 2026-08-26 |
 | [Users With API Errors](./practice/sql/users-with-api-errors) | SQL | Medium | 2026-08-26 |
 | [The Heaviest Hitters](./practice/sql/the-heaviest-hitters) | SQL | Easy | 2026-08-25 |
