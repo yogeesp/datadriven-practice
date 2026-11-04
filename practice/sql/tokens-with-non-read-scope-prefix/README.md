@@ -2,7 +2,7 @@
 
 *Tokens that don't start with 'read'.*
 
-[SQL · Medium · on DataDriven](https://datadriven.io/problems/tokens_with_non_read_scope_prefix)
+[SQL · Easy · on DataDriven](https://datadriven.io/problems/tokens_with_non_read_scope_prefix)
 
 ## How it went
 

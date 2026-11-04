@@ -228,7 +228,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 | [Endless Scroll](./practice/sql/endless-scroll) | SQL | Medium | 2026-08-12 |
 | [Average Latency by Status](./practice/sql/average-latency-by-status) | SQL | Easy | 2026-08-12 |
 | [Top Regions by Critical Alerts](./practice/sql/top-regions-by-critical-alerts) | SQL | Medium | 2026-08-11 |
-| [Tokens With Non-Read Scope Prefix](./practice/sql/tokens-with-non-read-scope-prefix) | SQL | Medium | 2026-08-11 |
+| [Tokens With Non-Read Scope Prefix](./practice/sql/tokens-with-non-read-scope-prefix) | SQL | Easy | 2026-08-11 |
 | [Return on Patience](./practice/sql/return-on-patience) | SQL | Medium | 2026-08-11 |
 | [High Water](./practice/python/high-water) | Python | Easy | 2026-08-11 |
 | [Infant Mortality](./practice/sql/infant-mortality) | SQL | Hard | 2026-08-10 |
