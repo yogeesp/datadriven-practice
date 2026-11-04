@@ -2,7 +2,7 @@
 
 *Count content views broken down by content type*
 
-[SQL · Easy · on DataDriven](https://datadriven.io/problems/views_by_content_type)
+[SQL · Medium · on DataDriven](https://datadriven.io/problems/views_by_content_type)
 
 ## How it went
 
