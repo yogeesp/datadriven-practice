@@ -1,6 +1,6 @@
 # The Loudest Failures
 
-*Twelve months of errors. Which types showed up most?*
+*12 months of errors. Which types showed up most?*
 
 [SQL · Medium · on DataDriven](https://datadriven.io/problems/the_loudest_failures)
 
