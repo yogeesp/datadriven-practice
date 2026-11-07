@@ -1,6 +1,6 @@
 # Suspected Bot Sessions
 
-*Five seconds or less. Probably a bot.*
+*5 seconds or less. Probably a bot.*
 
 [SQL · Easy · on DataDriven](https://datadriven.io/problems/suspected_bot_sessions)
 
