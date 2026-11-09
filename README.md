@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Node Utilization](./practice/sql/node-utilization) | SQL | Hard | 2026-11-09 |
 | [Email Census](./practice/sql/email-census) | SQL | Easy | 2026-11-08 |
 | [Open Wounds](./practice/sql/open-wounds) | SQL | Hard | 2026-11-08 |
 | [The Blast Radius](./practice/sql/the-blast-radius) | SQL | Medium | 2026-11-07 |
