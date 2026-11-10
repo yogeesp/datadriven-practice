@@ -12,7 +12,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 | [The Type Sorter](./practice/python/the-type-sorter) | Python | Easy | 2026-11-09 |
 | [Node Utilization](./practice/sql/node-utilization) | SQL | Hard | 2026-11-09 |
 | [Email Census](./practice/sql/email-census) | SQL | Easy | 2026-11-08 |
-| [Open Wounds](./practice/sql/open-wounds) | SQL | Medium | 2026-11-08 |
+| [Open Wounds](./practice/sql/open-wounds) | SQL | Hard | 2026-11-08 |
 | [The Blast Radius](./practice/sql/the-blast-radius) | SQL | Medium | 2026-11-07 |
 | [Peak Spending Month](./practice/sql/peak-spending-month) | SQL | Easy | 2026-11-07 |
 | [Reverse Field](./practice/python/reverse-field) | Python | Easy | 2026-11-02 |
