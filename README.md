@@ -8,7 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
-| [Monthly Running Total](./practice/sql/monthly-running-total) | SQL | Medium | 2026-11-10 |
+| [Monthly Running Total](./practice/sql/monthly-running-total) | SQL | Easy | 2026-11-10 |
 | [The Type Sorter](./practice/python/the-type-sorter) | Python | Easy | 2026-11-09 |
 | [Node Utilization](./practice/sql/node-utilization) | SQL | Hard | 2026-11-09 |
 | [Email Census](./practice/sql/email-census) | SQL | Easy | 2026-11-08 |
