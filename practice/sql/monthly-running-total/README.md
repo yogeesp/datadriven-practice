@@ -2,7 +2,7 @@
 
 *Cumulative sales per product across months.*
 
-[SQL · Easy · on DataDriven](https://datadriven.io/problems/monthly_running_total)
+[SQL · Medium · on DataDriven](https://datadriven.io/problems/monthly_running_total)
 
 ## How it went
 
