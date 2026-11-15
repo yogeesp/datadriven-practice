@@ -2,7 +2,7 @@
 
 *The average user is boring. Who is above?*
 
-[SQL · Easy · on DataDriven](https://datadriven.io/problems/above_average_interactions)
+[SQL · Medium · on DataDriven](https://datadriven.io/problems/above_average_interactions)
 
 ## How it went
 
