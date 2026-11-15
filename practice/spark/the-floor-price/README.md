@@ -2,7 +2,7 @@
 
 *Before the negotiation, find what each provider really charges at its cheapest.*
 
-[Spark · Medium · on DataDriven](https://datadriven.io/problems/the_floor_price)
+[Spark · Easy · on DataDriven](https://datadriven.io/problems/the_floor_price)
 
 ## How it went
 
