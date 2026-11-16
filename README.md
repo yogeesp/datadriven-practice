@@ -274,7 +274,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 | [Top Per Category](./practice/sql/top-per-category) | SQL | Hard | 2026-05-14 |
 | [Session Overview](./practice/sql/session-overview) | SQL | Medium | 2026-05-12 |
 | [Transform Column](./practice/python/transform-column) | Python | Easy | 2026-05-10 |
-| [Above Average Interactions](./practice/sql/above-average-interactions) | SQL | Medium | 2026-04-29 |
+| [Above Average Interactions](./practice/sql/above-average-interactions) | SQL | Easy | 2026-04-29 |
 | [Where the Money Burns](./practice/sql/where-the-money-burns) | SQL | Medium | 2026-04-29 |
 | [View Count Per Page](./practice/sql/view-count-per-page) | SQL | Easy | 2026-04-28 |
 | [CDN Image Request Paths](./practice/sql/cdn-image-request-paths) | SQL | Easy | 2026-04-28 |
