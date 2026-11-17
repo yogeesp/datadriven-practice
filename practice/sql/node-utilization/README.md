@@ -1,6 +1,6 @@
 # Node Utilization
 
-*Overloaded nodes hiding in busy regions. Spot the hot spots.*
+*Credits blur the bill. Find who really carries each region.*
 
 [SQL · Hard · on DataDriven](https://datadriven.io/problems/node_utilization)
 
