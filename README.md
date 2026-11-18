@@ -8,6 +8,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 
 | Problem | Domain | Difficulty | Solved |
 |---|---|---|---|
+| [Power Users](./practice/sql/power-users) | SQL | Medium | 2026-11-18 |
 | [The Floor Price](./practice/spark/the-floor-price) | Spark | Medium | 2026-11-13 |
 | [The Floor Price](./practice/sql/the-floor-price) | SQL | Medium | 2026-11-13 |
 | [Radio Silence](./practice/sql/radio-silence) | SQL | Hard | 2026-11-12 |
