@@ -2,7 +2,7 @@
 
 *Cost trends across billing periods.*
 
-[SQL · Medium · on DataDriven](https://datadriven.io/problems/cloud_cost_trend_analysis)
+[SQL · Easy · on DataDriven](https://datadriven.io/problems/cloud_cost_trend_analysis)
 
 ## How it went
 

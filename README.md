@@ -60,7 +60,7 @@ Scored work from [DataDriven](https://datadriven.io/u/yogeesp), committed here a
 | [Non-Bot Acknowledged Alerts](./practice/spark/non-bot-acknowledged-alerts) | Spark | Easy | 2026-10-03 |
 | [Non-Bot Acknowledged Alerts](./practice/sql/non-bot-acknowledged-alerts) | SQL | Easy | 2026-10-03 |
 | [Verify Commit ID Uniqueness](./practice/sql/verify-commit-id-uniqueness) | SQL | Easy | 2026-10-02 |
-| [Cloud Cost Trend Analysis](./practice/sql/cloud-cost-trend-analysis) | SQL | Medium | 2026-09-30 |
+| [Cloud Cost Trend Analysis](./practice/sql/cloud-cost-trend-analysis) | SQL | Easy | 2026-09-30 |
 | [The Ones Who Finish](./practice/sql/the-ones-who-finish) | SQL | Medium | 2026-09-30 |
 | [Total Cost by Category](./practice/spark/total-cost-by-category) | Spark | Easy | 2026-09-29 |
 | [Disabled Feature Flags](./practice/spark/disabled-feature-flags) | Spark | Easy | 2026-09-28 |
